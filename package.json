@@ -1,0 +1,1 @@
+{"description":"One line of the worst AI advice imaginable, written deterministically to $MAKEFUN_OUTPUT_DIR/entry.txt","license":"MIT","main":"main.ts","name":"worst-ai-advice","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
